@@ -3,10 +3,9 @@
 Passionate about technology and cybersecurity, with strong programming and electronics skills. Here you'll find links to my various repositories.
 
 # Projects
-
-<a href="https://github.com/C0deInBlack/yt-dlp-at">
-<pre>
-<code>
+***
+[![yt-dlp-at](https://github.com/C0deInBlack/yt-dlp-at)](https://github.com/C0deInBlack/yt-dlp-at)
+```
 yt-dlp-at
 
 Script for download music from YouTube, add metadata and cover image.
@@ -18,44 +17,33 @@ Key features:
 - Download sections from YouTube videos
 
 Technologies: Python, Cython, Docker 
-</code>
-</pre>
-</a>
-
-<a href="https://github.com/C0deInBlack/WhatsappBoomber">
-<pre>
-<code>
+```
+***
+[![WhatsappBoomber](https://github.com/C0deInBlack/WhatsappBoomber)](https://github.com/C0deInBlack/WhatsappBoomber)
+```
 WhatsappBoomber
 
 Simple whatsapp boomber usign python selenium. Send a specified number of messages to a contact.
 
 Technologies: Python, Selenium
-</code>
-</pre>
-</a>
-
-<a href="https://github.com/C0deInBlack/PyQt5-Template">
-<pre>
-<code>
+```
+***
+[![PyQt5-Template](https://github.com/C0deInBlack/PyQt5-Template)](https://github.com/C0deInBlack/PyQt5-Template)
+```
 PyQt5-Template
 
 Example of GUI application using Python and PyQt
 
 Technologies: Python
-</code>
-</pre>
-</a>
-
-<a href="https://github.com/C0deInBlack/Zsh_configuration">
-<pre>
-<code>
+```
+***
+[![Zsh_configuration](https://github.com/C0deInBlack/Zsh_configuration)](https://github.com/C0deInBlack/Zsh_configuration)
+```
 Zsh_configuration
 
 Configuration file for the Linux zsh shell.
-</code>
-</pre>
-</a>
-
+```
+***
 # Skills
 * Linux
 * Python
