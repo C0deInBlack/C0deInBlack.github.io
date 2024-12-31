@@ -4,7 +4,7 @@ Passionate about technology and cybersecurity, with strong programming and elect
 
 # Projects
 
-< a href="https://github.com/C0deInBlack/yt-dlp-at">
+<a href="https://github.com/C0deInBlack/yt-dlp-at">
 <pre>
 <code>
 yt-dlp-at
@@ -20,6 +20,7 @@ Key features:
 Technologies: Python, Cython, Docker 
 </code>
 </pre>
+</a>
 
 <a href="https://github.com/C0deInBlack/WhatsappBoomber">
 <pre>
@@ -31,6 +32,7 @@ Simple whatsapp boomber usign python selenium. Send a specified number of messag
 Technologies: Python, Selenium
 </code>
 </pre>
+</a>
 
 <a href="https://github.com/C0deInBlack/PyQt5-Template">
 <pre>
@@ -42,6 +44,7 @@ Example of GUI application using Python and PyQt
 Technologies: Python
 </code>
 </pre>
+</a>
 
 <a href="https://github.com/C0deInBlack/Zsh_configuration">
 <pre>
@@ -51,6 +54,7 @@ Zsh_configuration
 Configuration file for the Linux zsh shell.
 </code>
 </pre>
+</a>
 
 # Skills
 * Linux
