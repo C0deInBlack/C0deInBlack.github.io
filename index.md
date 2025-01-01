@@ -2,7 +2,11 @@
 
 Passionate about technology and cybersecurity, with strong programming and electronics skills. Here you'll find links to my various repositories.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3499089" style='border:none;'></iframe>
+## TryHackMe profile
+
+<a href="https://tryhackme.com/r/p/Gh0st.">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Gh0st..png" alt="Your Image Badge" />
+</a>
 
 # Projects
 ***
