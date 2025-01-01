@@ -2,6 +2,8 @@
 
 Passionate about technology and cybersecurity, with strong programming and electronics skills. Here you'll find links to my various repositories.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3499089" style='border:none;'></iframe>
+
 # Projects
 ***
 [![yt-dlp-at](https://github.com/C0deInBlack/yt-dlp-at)](https://github.com/C0deInBlack/yt-dlp-at)
