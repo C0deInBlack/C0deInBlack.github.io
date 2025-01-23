@@ -10,11 +10,11 @@ Passionate about technology and cybersecurity, with strong programming and elect
 
 # Projects
 ***
-[![yt-dlp-at](https://github.com/C0deInBlack/yt-dlp-at)](https://github.com/C0deInBlack/yt-dlp-at)
+[![yt2music](https://github.com/C0deInBlack/yt2music)](https://github.com/C0deInBlack/yt2music)
 ```
-yt-dlp-at
+yt2music
 
-Script for download music from YouTube, add metadata and cover image.
+Download entire artist's music from YouTube: playlists, full albums, or song sections, with automatic metadata and cover image tagging. 
 
 Key features:
 - Add Artist name, track number, album name and cover image to the metadata of each song
@@ -41,13 +41,6 @@ PyQt5-Template
 Example of GUI application using Python and PyQt
 
 Technologies: Python
-```
-***
-[![Zsh_configuration](https://github.com/C0deInBlack/Zsh_configuration)](https://github.com/C0deInBlack/Zsh_configuration)
-```
-Zsh_configuration
-
-Configuration file for the Linux zsh shell.
 ```
 ***
 # Skills
