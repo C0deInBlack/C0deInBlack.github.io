@@ -1,14 +1,10 @@
-# About Me
-
-Passionate about technology and cybersecurity, with strong programming and electronics skills. Here you'll find links to my various repositories.
-
-## TryHackMe profile
+# TryHackMe profile
 
 <a href="https://tryhackme.com/r/p/Gh0st.">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Gh0st..png" alt="Your Image Badge" />
 </a>
 
-# Projects
+# Repositories
 ***
 [![yt2music](https://github.com/C0deInBlack/yt2music)](https://github.com/C0deInBlack/yt2music)
 ```
@@ -43,16 +39,3 @@ Example of GUI application using Python and PyQt
 Technologies: Python
 ```
 ***
-# Skills
-* Linux
-* Python
-* Cybersecurity
-* C++
-* Bash
-* Penetration Testing
-* Arduino
-  
-# Contact
-
-* [GitHub](https://github.com/C0deInBlack)
-* [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-mu%C3%B1iz-b25909327/)
