@@ -10,7 +10,8 @@
 ```
 yt2music
 
-Download entire artist's music from YouTube: playlists, full albums, or song sections, with automatic metadata and cover image tagging. 
+Download entire artist's music from YouTube:
+playlists, full albums, or song sections, with automatic metadata and cover image tagging. 
 
 Key features:
 - Add Artist name, track number, album name and cover image to the metadata of each song
@@ -25,7 +26,8 @@ Technologies: Python, Cython, Docker
 ```
 WhatsappBoomber
 
-A Python script that sends bulk messages to a WhatsApp number using two different methods: Selenium and Playwright. 
+A Python script that sends bulk messages to a WhatsApp number using two different methods:
+Selenium and Playwright. 
 
 Technologies: Python, Selenium, Playwright
 ```
