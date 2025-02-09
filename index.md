@@ -25,9 +25,9 @@ Technologies: Python, Cython, Docker
 ```
 WhatsappBoomber
 
-Simple whatsapp boomber usign python selenium. Send a specified number of messages to a contact.
+A Python script that sends bulk messages to a WhatsApp number using two different methods: Selenium and Playwright. 
 
-Technologies: Python, Selenium
+Technologies: Python, Selenium, Playwright
 ```
 ***
 [![PyQt5-Template](https://github.com/C0deInBlack/PyQt5-Template)](https://github.com/C0deInBlack/PyQt5-Template)
