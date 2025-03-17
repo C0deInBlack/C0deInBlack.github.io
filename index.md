@@ -32,7 +32,7 @@ Selenium and Playwright.
 Technologies: Python, Selenium, Playwright
 ```
 ***
-![Songsterr_tabs_extractor](https://github.com/C0deInBlack/Songsterr_tabs_extractor)
+[![Songsterr_tabs_extractor](https://github.com/C0deInBlack/Songsterr_tabs_extractor)
 ```
 Songsterr_tabs_extractor
 
