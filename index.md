@@ -19,7 +19,7 @@ Key features:
 - Download playlists from YouTube
 - Download sections from YouTube videos
 
-Technologies: Python, Cython, Docker 
+Technologies: Python, Docker 
 ```
 ***
 [![WhatsappBoomber](https://github.com/C0deInBlack/WhatsappBoomber)](https://github.com/C0deInBlack/WhatsappBoomber)
@@ -32,12 +32,12 @@ Selenium and Playwright.
 Technologies: Python, Selenium, Playwright
 ```
 ***
-[![PyQt5-Template](https://github.com/C0deInBlack/PyQt5-Template)](https://github.com/C0deInBlack/PyQt5-Template)
+![Songsterr_tabs_extractor](https://github.com/C0deInBlack/Songsterr_tabs_extractor)
 ```
-PyQt5-Template
+Songsterr_tabs_extractor
 
-Example of GUI application using Python and PyQt
+Python script for download all favorites saved tabs from Songsterr, organize it by Artist and save each tab with the Artist and Title name of the song.
 
-Technologies: Python
+Technologies: Python, Playwright
 ```
 ***
