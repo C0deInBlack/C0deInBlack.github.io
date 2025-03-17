@@ -36,7 +36,8 @@ Technologies: Python, Selenium, Playwright
 ```
 Songsterr_tabs_extractor
 
-Python script for download all favorites saved tabs from Songsterr, organize it by Artist and save each tab with the Artist and Title name of the song.
+Python script for download all favorites saved tabs from Songsterr,
+organize it by Artist and save each tab with the Artist and Title name of the song.
 
 Technologies: Python, Playwright
 ```
