@@ -1,6 +1,8 @@
 # Hack The Box Profile
 
-![htb](https://github.com/C0deInBlack/C0deInBlack.github.io/blob/main/images/htb.cleaned.png)
+<a href="https://app.hackthebox.com/profile/1936872">
+<img src="https://github.com/C0deInBlack/C0deInBlack.github.io/blob/main/images/htb.cleaned.png" alt=""/>
+</a>
 
 # TryHackMe profile
 
