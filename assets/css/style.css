@@ -380,7 +380,7 @@ canvas {
     /* height: 500px; */
     border-radius: 20px;
     overflow: hidden;
-    /* background: rgba(41, 35, 26, 0.3); */
+    background: rgba(0, 0, 0, 0.3); */
     border: none;
 }
 
